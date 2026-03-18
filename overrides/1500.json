@@ -183,6 +183,12 @@
     "weight": 1
   },
   {
+    "speciesId": "lilligant_hisuian",
+    "fastMove": "BULLET_SEED",
+    "chargedMoves": ["PETAL_BLIZZARD","UPPER_HAND"],
+    "weight": 1
+  },
+  {
     "speciesId": "lokix",
     "chargedMoves": ["X_SCISSOR","TRAILBLAZE"],
     "weight": 1
@@ -299,8 +305,13 @@
     "weight": 10
   },
   {
+    "speciesId": "slowbro",
+    "chargedMoves": ["SURF","DRAIN_PUNCH"],
+    "weight": 1
+  },
+  {
     "speciesId": "slowbro_galarian",
-    "fastMove": "POISON_JAB",
+    "fastMove": "CONFUSION",
     "chargedMoves": ["BRUTAL_SWING", "DRAIN_PUNCH"],
     "weight": 1
   },
